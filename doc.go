@@ -4,5 +4,5 @@
 // License, v. 2.0. If a copy of the MPL was not distributed with this
 // file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-// Package handle provides utilities for cleaner error handling.
-package handle
+// Package errors provides utilities for cleaner error handling.
+package errors
